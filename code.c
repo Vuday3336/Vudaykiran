@@ -1,11 +1,12 @@
 #include<stdio.h>
 int main()
 {
-   int n,i,fact=1;
-   printf("Enter the integer\n");
-   scanf("%d",&n);
-   for(i=1;i<=n;i++)
+   int a,b,fact=1;
+   printf("Enter the integer\a");
+   scanf("%d",&a);
+   for(b=1;b<=a;b++)
    {
-      fact=fact*i;
+      fact=fact*b;
    }
+   printf("the factorial value of" %d is %d ",n fact);
 }
