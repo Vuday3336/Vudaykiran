@@ -8,6 +8,6 @@ int main()
    {
       fact=fact*b;
    }
-
+ printf("the freaction %d %d",a,fact");
   }
 
