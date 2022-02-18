@@ -8,6 +8,6 @@ int main()
    {
       fact=fact*b;
    }
-
+printf("the factorial value is %d of %d",a,fact);
   }
 
