@@ -7,5 +7,5 @@ int main()
    for(b=1;b<=a;b++)
    {
       fact=fact*b;
-      printf("the factorial value is %d of %d",a,fact);
+ 
    }
