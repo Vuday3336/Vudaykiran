@@ -8,6 +8,3 @@ int main()
    {
       fact=fact*b;
    }
-
-  }
-
